@@ -1,0 +1,71 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!NEWS SITE ADS !!!!!!!!!!!!
+!!!!!generic
+||bigyapan.hamropatro.com$subdocument
+
+! 11/17/2019 http://annapurnapost.com
+annapurnapost.com##.sticky-footer
+annapurnapost.com##div.advertisement:nth-of-type(3)
+annapurnapost.com###news-148458 > div.advertisement
+annapurnapost.com##.detail-news-content > div.advertisement
+annapurnapost.com##div.advertisement
+||bg.annapurnapost.com/uploads/media/1140x100_1_20190716052532.gif$image
+
+! 2021-04-18 https://baahrakhari.com
+baahrakhari.com##[src="https://baahrakhari.com/uploads/bigyaapan/58683000.jpg"]
+||baahrakhari.com/uploads/bigyaapan/$image
+
+! 2021-06-22 https://www.himalkhabar.com
+www.himalkhabar.com##.bigyaapan-box
+
+! 5/27/2020 Kantipur
+ekantipur.com##.daraz-sponser
+ekantipur.com###roadblock-ad
+||jcss-cdn.kantipurdaily.com/kantipurdaily/images/kanitpur-subscriber.png$image
+||assets-cdn.kantipurdaily.com/uploads/source/ads/$image
+
+! 4/3/2020 https://kathmandupost.com
+kathmandupost.com##.sticky--bottom__show.sticky--bottom__hide.sticky--bottom.ease
+||assets-cdn.kathmandupost.com/uploads/source/ads/$image
+
+! 4/3/2020 https://nagariknews.nagariknetwork.com
+nagariknews.nagariknetwork.com##.add-container
+
+! 2021-07-16 https://nepallive.com
+nepallive.com##.full-bigyapan
+nepallive.com##.insert-ad
+nepallive.com##.bigyaapan-item
+
+! 2021-06-22 https://nepalnews.com
+nepalnews.com##.uk-margin-large-top.uk-section-xsmall.uk-section.uk-section-muted
+nepalnews.com##.uk-section-xsmall.uk-section
+
+! 2021-05-30 https://www.nepalpress.com
+www.nepalpress.com##.gam-each-ad
+
+! 2021-05-31 https://www.onlinekhabar.com
+www.onlinekhabar.com##.okam-each-ad
+
+! 2/20/2020 https://www.setopati.com
+!www.setopati.com##.header-bottom.container
+!||img.setopati.org/uploads/bigyapan/15*.gif$image
+!||img.setopati.org/uploads/bigyapan/15*.$image
+!www.setopati.com##.col-md-9.main-bigyaapan
+!www.setopati.com##.mast-head.col-md-12
+||img.setopaty.com/uploads/bigyaapan$image
+
+! 2021-07-14 https://swasthyakhabar.com
+swasthyakhabar.com##.bigyaapan-item
+||swasthyakhabar.com/uploads/bigyaapan/*.gif$image
+
+! 2021-03-07 https://techlekh.com
+techlekh.com###bajaj_ad_wrapper
+
+! 2021-05-19 https://www.techpana.com
+www.techpana.com##.size-full.attachment-full.image
+www.techpana.com##.col-md-4 > .mb-2
+www.techpana.com##[src^="https://creative.hamropatro.com/img/hamro_banner_350x150.gif"]
+
+! 2021-05-31 https://ujyaaloonline.com
+ujyaaloonline.com##.ad
+
+!!!!!!!!!!!!!!!NEWS END
