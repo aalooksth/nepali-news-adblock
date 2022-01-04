@@ -11,8 +11,9 @@ annapurnapost.com##div.advertisement
 ||bg.annapurnapost.com/uploads/media/1140x100_1_20190716052532.gif$image
 
 ! 2021-04-18 https://baahrakhari.com
-baahrakhari.com##[src="https://baahrakhari.com/uploads/bigyaapan/58683000.jpg"]
 ||baahrakhari.com/uploads/bigyaapan/$image
+||baahrakhari.com/uploads/bigyaapan/*$image
+baahrakhari.com##.bigyaapan-item.items
 
 ! 2021-06-22 https://www.himalkhabar.com
 www.himalkhabar.com##.bigyaapan-box
@@ -41,9 +42,13 @@ nepalnews.com##.uk-section-xsmall.uk-section
 
 ! 2021-05-30 https://www.nepalpress.com
 www.nepalpress.com##.gam-each-ad
+www.nepalpress.com##.footer-banner
+www.nepalpress.com##.gam-each-npad
 
 ! 2021-05-31 https://www.onlinekhabar.com
 www.onlinekhabar.com##.okam-each-ad
+www.onlinekhabar.com##.ok_rb_addWrap
+www.onlinekhabar.com##.okam-ad-position-wrap
 
 ! 2/20/2020 https://www.setopati.com
 !www.setopati.com##.header-bottom.container
