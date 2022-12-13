@@ -13,6 +13,8 @@ annapurnapost.com##div.advertisement
 ! 2021-04-18 https://baahrakhari.com
 baahrakhari.com##.full-bigyapan
 baahrakhari.com##.bigyaapan-section
+baahrakhari.com##.bigyaapan-item
+baahrakhari.com##.bigyaapan-box
 
 ! 2021-06-22 https://www.himalkhabar.com
 www.himalkhabar.com##.bigyaapan-box
