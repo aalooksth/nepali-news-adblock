@@ -11,9 +11,8 @@ annapurnapost.com##div.advertisement
 ||bg.annapurnapost.com/uploads/media/1140x100_1_20190716052532.gif$image
 
 ! 2021-04-18 https://baahrakhari.com
-||baahrakhari.com/uploads/bigyaapan/$image
-||baahrakhari.com/uploads/bigyaapan/*$image
-baahrakhari.com##.bigyaapan-item.items
+baahrakhari.com##.full-bigyapan
+baahrakhari.com##.bigyaapan-section
 
 ! 2021-06-22 https://www.himalkhabar.com
 www.himalkhabar.com##.bigyaapan-box
