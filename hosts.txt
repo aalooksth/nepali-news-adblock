@@ -23,6 +23,11 @@ ekantipur.com##.daraz-sponser
 ekantipur.com###roadblock-ad
 ||jcss-cdn.kantipurdaily.com/kantipurdaily/images/kanitpur-subscriber.png$image
 ||assets-cdn.kantipurdaily.com/uploads/source/ads/$image
+ekantipur.com##.box-sponsored
+ekantipur.com##.ekans-row
+
+! 2022-11-21 https://election.ekantipur.com
+||election.ekantipur.com/sponsored$image
 
 ! 4/3/2020 https://kathmandupost.com
 kathmandupost.com##.sticky--bottom__show.sticky--bottom__hide.sticky--bottom.ease
